@@ -1,2 +1,2 @@
 decimal = int(input("Enter a number: "))
-print("Hexadecimal: ",hex(decimal))
+print(format(decimal, '02x'))
