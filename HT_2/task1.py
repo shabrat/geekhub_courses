@@ -6,4 +6,4 @@ def concatenate_list_data(list):
         result += str(element)
     return result
 
-print(concatenate_list_data([[1, 9, 9, 6], "Hi Mentor ", 1, 9,9,6]))
+print(concatenate_list_data(["Hi Mentor! ", 1, 9,9,6]))
